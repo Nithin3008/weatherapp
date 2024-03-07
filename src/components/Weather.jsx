@@ -27,7 +27,7 @@ const Weather = () => {
         </div>
         <div className="relative">
           <img
-            src="./bg.png"
+            src="./backg.png"
             className="w-[130px] h-[110px] object-full rounded-lg"
           ></img>
           <button className="bg-[#FF2D55] text-white  rounded w-[43px] h-[22px] absolute bottom-1 right-2">

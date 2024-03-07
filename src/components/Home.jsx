@@ -6,7 +6,7 @@ const Home = () => {
   const nav = useNavigate();
   return (
     <div
-      className="bg-[url('./bg.png')] h-screen bg-bottom bg-no-repeat bg-cover
+      className="bg-[url('./backg.png')] h-screen bg-bottom bg-no-repeat bg-cover
     "
     >
       <TopBar></TopBar>
